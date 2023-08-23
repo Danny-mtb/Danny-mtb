@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a href="https://app.daily.dev/danny_mtb"><img src="https://github.com/danny_mtb/danny_mtb/blob/master/devcard.svg" width="400" alt="Danny Anders's Dev Card"/></a>
+<a href="https://app.daily.dev/danny_mtb"><img src="https://github.com/Danny-mtb/Danny-mtb/blob/main/devcard.svg" width="400" alt="Danny Anders's Dev Card"/></a>
 
 <!--
 **Danny-mtb/Danny-mtb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
