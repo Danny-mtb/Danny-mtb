@@ -12,7 +12,5 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="30" />
     </p>
   </div>
-  <div style="flex: 1;">
     <a href="https://app.daily.dev/danny_mtb"><img src="https://github.com/Danny-mtb/Danny-mtb/blob/main/devcard.svg" width="400" alt="Danny Anders's Dev Card"/></a>
-  </div>
 </div>
