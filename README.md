@@ -30,12 +30,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-- [Danny-mtb's GitHub stats](https://github-readme-stats.vercel.app/api?username=Danny-mtb&show_icons=true&theme=tokyonight)
-
----
-
 ## 📫 Get in Touch
 
 - Connect with me on [GitHub](https://github.com/Danny-mtb)
