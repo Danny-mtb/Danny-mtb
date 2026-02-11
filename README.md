@@ -1,15 +1,49 @@
-<div style="display: flex;">
-  <div style="flex: 1; margin-right: 20px;">
-    <h3>Hi there! 👋</h3>
-    <p>I'm Danny, Developer from Germany.</p>
-    <p>🔭 I’m currently working on my own project.</p>
-    <br>
-    <h4>My Programming Languages are:</h4>
-    <p>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="30" />
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="30" />
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="30" />
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="30" />
-    </p>
-  </div>
-</div>
+# 👋 Welcome to my GitHub Profile!
+
+**Discover creative projects built with the latest technologies.**  
+*Passionate about web development, system programming, and learning new languages.*
+
+---
+
+## 🧑‍💻 About Me
+
+- 🧠 Always open to new ideas and technologies
+- 💡 Goal: Efficient, creative code that’s genuinely fun!
+
+---
+
+## 🛠️ Tech Stack
+
+- 🦀 **Rust** — Safe and fast systems programming
+- 🔷 **TypeScript** — Robust, maintainable web apps
+- ⚡️ **JavaScript** — Interactive and dynamic features
+- 🌐 **HTML5** — The backbone of the web
+- 🎨 **CSS3** — Beautiful and modern styling
+
+---
+
+## 🚀 Project Highlights
+
+- **Rust:** Efficient CLI tools & microservices  
+- **TypeScript/JavaScript:** Web apps, utilities, & creative experiments  
+- **HTML/CSS:** Responsive, modern user interfaces  
+
+---
+
+## 📊 GitHub Stats
+
+- [Danny-mtb's GitHub stats](https://github-readme-stats.vercel.app/api?username=Danny-mtb&show_icons=true&theme=tokyonight)
+
+---
+
+## 📫 Get in Touch
+
+- Connect with me on [GitHub](https://github.com/Danny-mtb)
+- ⭐️ Like a project? Leave a star!
+- 🗨️ Have questions or suggestions? Open an issue!
+
+---
+
+<p align="center">
+  <em>Let’s build something awesome together! 🚀</em>
+</p>
